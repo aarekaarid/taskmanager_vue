@@ -1,0 +1,36 @@
+/*.home {background-color: bisque;}*/
+h1 {
+    font-family: "Arial";
+    color: black;
+    font-size: 20px
+}
+
+p {
+    color: black;
+    font-family: "Dubai Medium";
+    font-size: x-large;
+}
+
+button {
+    background-color: limegreen;
+    /*width: 80px;*/
+    /*height: 30px;*/
+    font-size: 20px;
+}
+
+select {
+    background: #2c3e50;
+    color: antiquewhite;
+    border-color: #2c3e50;
+    font-size: 20px;
+}
+
+table {
+    background: darkgrey;
+    color: black;
+    border: 1px;
+}
+
+td{
+    height: 21px;
+}
