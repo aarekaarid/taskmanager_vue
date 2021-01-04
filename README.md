@@ -10,7 +10,7 @@ For building and running the application you need:
 * Node and npm https://nodejs.org/en/
 
 ## Running taskmanager_vue locally
-git clone https://github.com/aarekaarid/taskmanager_spring.git
+git clone https://github.com/aarekaarid/taskmanager_vue.git
 cd taskmanager_vue
 
 
