@@ -1,5 +1,8 @@
 # taskmanager_vue
 
+## Requirements
+Node and npm https://nodejs.org/en/
+
 ## Project setup
 ```
 npm install
@@ -10,15 +13,3 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
