@@ -34,3 +34,6 @@ npm run serve;
 http://localhost:8081/
 ```
 * app should be fully functional.
+
+## Author
+Aare Käärid
