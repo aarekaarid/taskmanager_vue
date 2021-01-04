@@ -1,4 +1,5 @@
-# Simple Taskmanager Project Frontend part
+# Simple Taskmanager Project - Frontend
+*Vue.js/javascript/HTML/momentjs*
 
 ## Project Description
 * This is Taskmanager App Frontend part.
